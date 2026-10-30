@@ -1,0 +1,1 @@
+GitHub Pages: Extract all eight ZIP files into the same repository root, preserving the articles/ directory. Part 1 contains index.html, articles.html, support.html, style.css, and article_index.csv. All 800 links are on the homepage. Enable Pages for the repository root.
